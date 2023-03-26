@@ -2,6 +2,18 @@
 title: "About me"
 ---
 
-## Header
+## Main research topic
 
-Say more about you here.
+
+
+## Education
+* 2018 Sep 1 - 2023 Feb 22, Ph.d in Jeonbuk National University with majoring in Electronic Engineering.
+* 2015 Sep 1 - 2018 June 30, M. in Shanghai University of Engineering Science with majoring in Mechatronic Engineering
+* 2011 Sep 1 - 2015 June 30, B. in Jiangxi Agricultural University with majoring in Vehicle Engineering.
+
+
+
+## Main award
+
+
+## 

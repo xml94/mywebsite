@@ -1,5 +1,5 @@
 ---
-title: "Mingle Xu"
+title: "Welcome to my website!"
 output: 
   html_document:
     toc: FALSE
@@ -8,12 +8,10 @@ output:
 
 
 
-**Welcome to my website!**
+My name is Mingle Xu, a post doctor researcher with Core Research Institute of Intelligent Robots
+in Jeonbuk National University.
 
 
-# Getting started
-
-Click the links in the menu above to look around.
 
 
 
