@@ -1,7 +1,7 @@
 ---
-title: "Publication"
+title: "Publications"
 ---
 
 ## Header
 
-Say more about you here.
+**Xu, Mingle**, Sook Yoon, Alvaro Fuentes, and Dong Sun Park. "A comprehensive survey of image augmentation techniques for deep learning." Pattern Recognition (2023): 109347. [Link](https://www.sciencedirect.com/science/article/pii/S0031320323000481)
