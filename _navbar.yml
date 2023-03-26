@@ -6,6 +6,8 @@ left:
     href: ./aboutme.html
   - text: "Publication"
     href: ./publications.html
+  - text: "Presentation"
+    href: ./presentation.html
 #  - text: "About me"
 #    menu:
 #      - text: "Learn more about me"
@@ -19,6 +21,9 @@ left:
 #  - text: "Contact"
 #    href: ./contact.html
 right:
-  - icon: fa-github fa-lg
+  - text: GitHub
+    icon: fa-github fa-lg
     href: https://github.com/xml94
-
+  - text: Contact me
+    icon: fa-envelope-o
+    href: mailto:xml@jbnu.ac.kr

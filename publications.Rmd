@@ -2,8 +2,28 @@
 title: "Publications"
 ---
 
-## Header
+## Journal Paper
 
-**Xu, Mingle**, Sook Yoon, Alvaro Fuentes, and Dong Sun Park. "A comprehensive survey of image augmentation techniques for deep learning." Pattern Recognition (2023): 109347. [Link](https://www.sciencedirect.com/science/article/pii/S0031320323000481)
+**Xu, Mingle**, Sook Yoon, Alvaro Fuentes, and Dong Sun Park. "A comprehensive survey of image augmentation techniques for deep learning." Pattern Recognition (2023): 109347. [Link](https://www.sciencedirect.com/science/article/pii/S0031320323000481).
 
-**Xu, Mingle**, Sook Yoon, Alvaro Fuentes, Jucheng Yang, and Dong Sun Park. "Style-consistent image translation: a novel data augmentation paradigm to improve plant disease recognition." Frontiers in Plant Science 12 (2022): 3361. [Link](https://www.frontiersin.org/articles/10.3389/fpls.2021.773142/full)
+**Xu, Mingle**, Sook Yoon, Yongchae Jeong, and Dong Sun Park. "Transfer learning for versatile plant disease recognition with limited data." Frontiers in Plant Science 13 (2022): 4506. [Link](https://www.frontiersin.org/articles/10.3389/fpls.2022.1010981/full).
+
+**Xu, Mingle**, Sook Yoon, Alvaro Fuentes, Jucheng Yang, and Dong Sun Park. "Style-consistent image translation: a novel data augmentation paradigm to improve plant disease recognition." Frontiers in Plant Science 12 (2022): 3361. [Link](https://www.frontiersin.org/articles/10.3389/fpls.2021.773142/full).
+
+Meng, Yao, **Mingle Xu**, Sook Yoon, Yongchae Jeong, and Dong Sun Park. "Flexible and high quality plant growth prediction with limited data." Frontiers in Plant Science 13 (2022). [Link](https://www.frontiersin.org/articles/10.3389/fpls.2022.989304/full).
+
+**Xu, Mingle**, Yongchae Jeong, Dong Sun Park, and Sook Yoon. "Enhanced Class-Specific Spatial Normalization for Image Generation." IEEE Access 10 (2022): 6569-6579. [Link](https://ieeexplore.ieee.org/abstract/document/9682740).
+
+**Xu, Mingle**, Jaehwan Lee, Alvaro Fuentes, Dong Sun Park, Jucheng Yang, and Sook Yoon. "Instance-level image translation with a local discriminator." IEEE Access 9 (2021): 111802-111813. [Link](https://ieeexplore.ieee.org/abstract/document/9505697).
+
+**Xu, Mingle**, Xiaoming You, and Sheng Liu. "A novel heuristic communication heterogeneous dual population ant colony optimization algorithm." IEEE Access 5 (2017): 18506-18515. [Link](https://ieeexplore.ieee.org/abstract/document/8022690).
+
+
+## Conference Paper
+
+**Xu, Mingle**, Sook Yoon, Yongchae Jeong, Jaesu Lee, and Dong Sun Park. "Transfer learning with self-supervised vision transformer for large-scale plant identification." In International conference of the cross-language evaluation forum for European languages (Springer;), pp. 2253-2261. 2022.
+
+
+## Ph.d. Dissertation
+
+2023 Feb 22, Enhanced Plant Disease Recognition with Limited Training Dataset Using Image Translation and Two-Step Transfer Learning. [Link](https://www.researchgate.net/publication/368464605_Enhanced_Plant_Disease_Recognition_with_Limited_Training_Dataset_Using_Image_Translation_and_Two-Step_Transfer_Learning).
