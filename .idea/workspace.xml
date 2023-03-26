@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a077d23d-4a4f-4640-a65f-15dde97cc9f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/aboutme.Rmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1.Rmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publications.Rmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.Rmd" beforeDir="false" afterPath="$PROJECT_DIR$/index.Rmd" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +24,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NXC5StIV5Pjr7ag5hIGhITGrtt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679800858675</updated>
-      <workItem from="1679800861678" duration="677000" />
+      <workItem from="1679800861678" duration="1512000" />
     </task>
     <servers />
   </component>
