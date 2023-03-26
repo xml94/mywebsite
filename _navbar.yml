@@ -6,8 +6,8 @@ left:
     href: ./aboutme.html
   - text: "Publication"
     href: ./publications.html
-  - text: "Presentation"
-    href: ./presentation.html
+#  - text: "Presentation"
+#    href: ./presentation.html
 #  - text: "About me"
 #    menu:
 #      - text: "Learn more about me"
@@ -27,11 +27,11 @@ right:
   - text: Contact me
     icon: fa-envelope-o
     href: mailto:xml@jbnu.ac.kr
-  - text: Google Scholar
+  - text: Scholar
     icon: fa-google
     href: https://scholar.google.com/citations?hl=en&user=ANqQqiAAAAAJ&view_op=list_works&gmla=ABEO0YoPvrQwPUtlUxZSa9osZysGfBsgqoVSSnssDjzNhcPRmOn8YD58eFiT124Tk7fKIUG6-7334uJgQnAfWL2L
   - text: ORCID
     icon: fa-orcid
     href: https://orcid.org/my-orcid?orcid=0000-0003-2662-6864
-  - text: CSDN
+  - text: CSDN博客
     href: https://blog.csdn.net/qq_27261889?type=blog
