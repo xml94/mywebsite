@@ -3,11 +3,13 @@ title: "Home"
 type: inverse
 left:
   - text: "About me"
-    menu:
-      - text: "Learn more about me"
-        href: ./aboutme.html
+    href: ./aboutme.html
   - text: "Publication"
     href: ./publications.html
+#  - text: "About me"
+#    menu:
+#      - text: "Learn more about me"
+#        href: ./aboutme.html
 #  - text: "Project"
 #    menu:
 #       - text: "Project part 1"
@@ -19,3 +21,4 @@ left:
 right:
   - icon: fa-github fa-lg
     href: https://github.com/xml94/xml94
+
