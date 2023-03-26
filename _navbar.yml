@@ -1,5 +1,5 @@
-name: "Mywebsite"
-title: "My new website"
+name: "Mingle Xu"
+title: "Home"
 type: inverse
 left:
   - text: "About me"
@@ -12,8 +12,10 @@ left:
          href: ./project1.html
        - text: "Project part 2"
          href: ./project2.html
+  - text: "Publication"
+    href: ./publications.html
   - text: "Contact"
     href: ./contact.html
 right:
   - icon: fa-github fa-lg
-    href: https://github.com/githubusername/mywebsite
+    href: https://github.com/xml94/xml94.github.io
