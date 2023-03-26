@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a077d23d-4a4f-4640-a65f-15dde97cc9f7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/_navbar.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_navbar.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/aboutme.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/aboutme.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/presentation.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/presentation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/project1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/project1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/publications.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/publications.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679800858675</updated>
-      <workItem from="1679800861678" duration="9380000" />
+      <workItem from="1679800861678" duration="9645000" />
     </task>
     <servers />
   </component>
