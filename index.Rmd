@@ -5,12 +5,13 @@ output:
     toc: FALSE
 ---
 
-![](./data/Mingle.jpg){height="357px" width="500px"}
+![](./data/Mingle.jpg)
 
 My name is Mingle Xu, a post doctor researcher with Core Research Institute of Intelligent Robots
 in Jeonbuk National University, South Korea.
 
-My passion is utilizing artificial intelligence and deep learning to mitigate the challenges in plant science.
+My passion is utilizing artificial intelligence and deep learning to mitigate the challenges in plant science, especially plant disease recognition.
+Welcome any discussions and questions about them.
 
 I support [slow science](https://en.wikipedia.org/wiki/Slow_science).
 
