@@ -3,3 +3,4 @@ title: "Presentations"
 ---
 
 
+* Embracing Limited and Imperfect Data: A Review on Plant Stress Recognition Using Deep Learning [slides]() 2023 [ASABE](https://asabemeetings.org/) lightning talk 
