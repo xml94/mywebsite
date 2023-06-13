@@ -3,11 +3,11 @@ title: "Publications"
 ---
 
 ## Preprint or submitted papers
-**Xu, Mingle**, Jaehwan Lee, Sook Yoon, Hyongsuk Kim, and Dong Sun Park. "Variation-Aware Semantic Image Synthesis." arXiv preprint arXiv:2301.10551 (2023). [Link](https://arxiv.org/abs/2301.10551).
+**Xu, Mingle**, Jaehwan Lee, Sook Yoon, Hyongsuk Kim, and Dong Sun Park. "Variation-Aware Semantic Image Synthesis." arXiv preprint. [Link](https://arxiv.org/abs/2301.10551).
+
+"Embracing Limited and Imperfect Data: A Review on Plant Stress Recognition Using Deep Learning", arXiv preprint. [Link](https://arxiv.org/abs/2305.11533).
 
 "Known and Unknown Class Recognition on Plant Species and Diseases", submitted.
-
-"Embracing Limited and Imperfect Data: A Review on Plant Stress Recognition Using Deep Learning", submitted.
 
 ## Journal Paper
 
