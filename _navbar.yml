@@ -6,8 +6,8 @@ left:
     href: ./aboutme.html
   - text: "Publication"
     href: ./publications.html
-#  - text: "Presentation"
-#    href: ./presentation.html
+  - text: "Presentations"
+    href: ./presentations.html
 #  - text: "About me"
 #    menu:
 #      - text: "Learn more about me"
