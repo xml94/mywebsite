@@ -10,8 +10,9 @@ output:
 My name is Mingle Xu, a post-doctoral researcher with Core Research Institute of Intelligent Robots
 in Jeonbuk National University, South Korea.
 
-My passion is utilizing artificial intelligence and deep learning to mitigate the challenges in plant science, especially plant disease recognition.
-Welcome any discussions and questions about them.
+My passion is achieve better reliable and robust artificial intelligence, such as deployment in domain shift and detecting new object (out-of-distribution and open set recognition).
+
+My another passion is utilizing artificial intelligence and deep learning to mitigate the challenges in plant science, especially plant disease recognition and plant identification. Welcome any discussions and questions about them.
 
 I support [slow science](https://en.wikipedia.org/wiki/Slow_science).
 
