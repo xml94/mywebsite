@@ -6,6 +6,8 @@ title: "Presentations"
 
 The seminar aims to introduce the latest research papers.
 
+* 2023 Octorber 20 [Invariant Risk Minimization](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/20231020_PR_Invariant%20Risk%20Minimization)
+
 * 2023 September 8, [Decopuling MaxLogit for Out-of_distribution detection](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/20230908_PR_Decopuling%20MaxLogit%20for%20Out-of_distribution%20detection.pptx)
 
 * 2023 August 17, [a holistic assessment for the reliablity of machine learning systems](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/20230817_PR_a%20holistic%20assessment%20for%20the%20reliablity%20of%20machine%20learning%20systems.pptx)
