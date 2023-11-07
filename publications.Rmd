@@ -7,11 +7,13 @@ title: "Publications"
 2023 Feb 22, Enhanced Plant Disease Recognition with Limited Training Dataset Using Image Translation and Two-Step Transfer Learning. [Link](https://www.researchgate.net/publication/368464605_Enhanced_Plant_Disease_Recognition_with_Limited_Training_Dataset_Using_Image_Translation_and_Two-Step_Transfer_Learning).
 
 
-## Journal Paper
+## Peer reviewed paper
 
 **Xu, Mingle**, Hyongsuk Kim, Jucheng Yang, Alvaro Fuentes, Yao Meng, Sook Yoon, Taehyun Kim, and Dong Sun Park. "Embracing limited and imperfect training datasets: opportunities and challenges in plant disease recognition using deep learning." Frontiers in Plant Science 14 (2023). [Link](https://www.frontiersin.org/articles/10.3389/fpls.2023.1225409/full)
 
 **Xu, Mingle**, Sook Yoon, Alvaro Fuentes, and Dong Sun Park. "A comprehensive survey of image augmentation techniques for deep learning." Pattern Recognition (2023): 109347. Selected as an **outstanding paper** for September 2023 by the journal. [Link](https://www.sciencedirect.com/science/article/pii/S0031320323000481).
+
+**Xu, Mingle**, Sook Yoon, Chenmou Wu, Jeonghyun Baek, and Dong Sun Park. "Plantclef2023: A bigger training dataset contributes more than advanced pretraining methods for plant identification." Working Notes of CLEF (2023). [Link](https://ceur-ws.org/Vol-3497/paper-183.pdf)
 
 Dong, Jiuqing, Jaehwan Lee, Alvaro Fuentes, **Mingle Xu**, Sook Yoon, Mun Haeng Lee, and Dong Sun Park. "Data-centric annotation analysis for plant disease detection: Strategy, consistency, and performance." Frontiers in Plant Science 13 (2022): 1037655. [Link](https://www.frontiersin.org/articles/10.3389/fpls.2022.1037655/full)
 
@@ -21,19 +23,13 @@ Dong, Jiuqing, Jaehwan Lee, Alvaro Fuentes, **Mingle Xu**, Sook Yoon, Mun Haeng 
 
 Meng, Yao, **Mingle Xu**, Sook Yoon, Yongchae Jeong, and Dong Sun Park. "Flexible and high quality plant growth prediction with limited data." Frontiers in Plant Science 13 (2022). [Link](https://www.frontiersin.org/articles/10.3389/fpls.2022.989304/full).
 
+**Xu, Mingle**, Sook Yoon, Yongchae Jeong, Jaesu Lee, and Dong Sun Park. "Transfer learning with self-supervised vision transformer for large-scale plant identification." In International conference of the cross-language evaluation forum for European languages (Springer;), pp. 2253-2261. 2022.
+
 **Xu, Mingle**, Yongchae Jeong, Dong Sun Park, and Sook Yoon. "Enhanced Class-Specific Spatial Normalization for Image Generation." IEEE Access 10 (2022): 6569-6579. [Link](https://ieeexplore.ieee.org/abstract/document/9682740).
 
 **Xu, Mingle**, Jaehwan Lee, Alvaro Fuentes, Dong Sun Park, Jucheng Yang, and Sook Yoon. "Instance-level image translation with a local discriminator." IEEE Access 9 (2021): 111802-111813. [Link](https://ieeexplore.ieee.org/abstract/document/9505697).
 
 **Xu, Mingle**, Xiaoming You, and Sheng Liu. "A novel heuristic communication heterogeneous dual population ant colony optimization algorithm." IEEE Access 5 (2017): 18506-18515. [Link](https://ieeexplore.ieee.org/abstract/document/8022690).
-
-
-## Conference Paper
-
-**Xu, Mingle**, Sook Yoon, Chenmou Wu, Jeonghyun Baek, and Dong Sun Park. "Plantclef2023: A bigger training dataset contributes more than advanced pretraining methods for plant identification." Working Notes of CLEF (2023). [Link](https://ceur-ws.org/Vol-3497/paper-183.pdf)
-
-**Xu, Mingle**, Sook Yoon, Yongchae Jeong, Jaesu Lee, and Dong Sun Park. "Transfer learning with self-supervised vision transformer for large-scale plant identification." In International conference of the cross-language evaluation forum for European languages (Springer;), pp. 2253-2261. 2022.
-
 
 
 ## Preprint or submitted papers
