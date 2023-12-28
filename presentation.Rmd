@@ -6,26 +6,26 @@ title: "Presentations"
 
 The seminar aims to introduce the latest research papers.
 
-* 2023 Dec 19, [knowledge guided model, Measuring Human Perception to Improve Open Set Recognition](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/20231219_Measuring%20Human%20Perception%20to%20Improve%20Open%20Set%20Recognition.pptx)
+* 2023 Dec 19, [knowledge guided model, Measuring Human Perception to Improve Open Set Recognition](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/2023/20231219_Measuring%20Human%20Perception%20to%20Improve%20Open%20Set%20Recognition.pptx)
 
-* 2023 Octorber 20 [Invariant Risk Minimization](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/20231020_PR_Invariant%20Risk%20Minimization.pptx)
+* 2023 Octorber 20 [Invariant Risk Minimization](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/2023/20231020_PR_Invariant%20Risk%20Minimization.pptx)
 
-* 2023 September 8, [Decopuling MaxLogit for Out-of_distribution detection](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/20230908_PR_Decopuling%20MaxLogit%20for%20Out-of_distribution%20detection.pptx)
+* 2023 September 8, [Decopuling MaxLogit for Out-of_distribution detection](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/2023/20230908_PR_Decopuling%20MaxLogit%20for%20Out-of_distribution%20detection.pptx)
 
-* 2023 August 17, [a holistic assessment for the reliablity of machine learning systems](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/20230817_PR_a%20holistic%20assessment%20for%20the%20reliablity%20of%20machine%20learning%20systems.pptx)
+* 2023 August 17, [a holistic assessment for the reliablity of machine learning systems](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/2023/20230817_PR_a%20holistic%20assessment%20for%20the%20reliablity%20of%20machine%20learning%20systems.pptx)
 
-* 2023 July 20, [Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/20230609_PR_Prompt%20Pre-Training%20with%20Twenty-Thousand%20Classes%20for%20Open-Vocabulary%20Visual%20Recognition.pptx)
+* 2023 July 20, [Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/2023/20230609_PR_Prompt%20Pre-Training%20with%20Twenty-Thousand%20Classes%20for%20Open-Vocabulary%20Visual%20Recognition.pptx)
 
-* 2023 May 23, [OpenAUC: Towards AUC-Oriented Open-Set Recognition](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/20230523%20paper%20seminar%20OpenAUC.pptx)
+* 2023 May 23, [OpenAUC: Towards AUC-Oriented Open-Set Recognition](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/2023/20230523%20paper%20seminar%20OpenAUC.pptx)
 
-* 2023 March 24 [The familiarity hypothesis Explaining the behavior of deep open set methods](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/20230324_PR_The%20familiarity%20hypothesis%20Explaining%20the%20behavior%20of%20deep%20open%20set%20methods.pptx)
+* 2023 March 24 [The familiarity hypothesis Explaining the behavior of deep open set methods](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/2023/20230324_PR_The%20familiarity%20hypothesis%20Explaining%20the%20behavior%20of%20deep%20open%20set%20methods.pptx)
 
-* 2023 January 6 [visual prompting via image impainting](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/20230106_paper_seminar_visual%20prompting%20via%20image%20impainting.pptx)
+* 2023 January 6 [visual prompting via image impainting](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/2023/20230106_paper_seminar_visual%20prompting%20via%20image%20impainting.pptx)
 
 
 ## Conference and invited talks
-* 2024 Jan, Invited talk in Capital Norm University [AI+农业：数据受限下的植物疾病识别](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/20240105_AI+农业%20有限数据下的植物疾病识别.pdf)
+* 2024 Jan, presentation in The Sixth "Forum on Frontier Innovation in Mathematics and its Interdisciplinary Disciplines in Capital Normal University", [AI+Agriculture: plant disease recognition with limited data](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/2024/20240105_AI+农业%20有限数据下的植物疾病识别.pdf), 第六届“首都师范大学数学及其交叉学科前沿创新论坛”, AI+农业：数据受限下的植物疾病识别.
 
-* 2023 July, **lightning talk** in [ASABE](https://asabemeetings.org/), Embracing Limited and Imperfect Data: A Review on Plant Stress Recognition Using Deep Learning, [public slides](https://github.com/xml94/xml94.github.io/blob/main/slides/2023%20ASABE%20MingleXu%20LightningTalk%20Embracing%20Limited%20and%20Imperfect%20Data%20a%20Review%20on%20Plant%20Stress%20Recognition%20Using%20Deep%20Learning.pdf).
+* 2023 July, **lightning talk** in [ASABE](https://asabemeetings.org/), Embracing Limited and Imperfect Data: A Review on Plant Stress Recognition Using Deep Learning, [public slides](https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/2023/2023%20ASABE%20MingleXu%20LightningTalk%20Embracing%20Limited%20and%20Imperfect%20Data%20a%20Review%20on%20Plant%20Stress%20Recognition%20Using%20Deep%20Learning.pdf).
 
-* 2023 July, presentation in [ASABE](https://asabemeetings.org/), Known and Unknown Class Recognition on Plant Species and Diseases,  [public slides](https://github.com/xml94/xml94.github.io/blob/main/slides/202307%20ASABE%20Known%20and%20Unknown%20Class%20Recognition%20on%20Plant%20Species%20and%20Diseases.pdf).
+* 2023 July, presentation in [ASABE](https://asabemeetings.org/), Known and Unknown Class Recognition on Plant Species and Diseases,  [public slides]https://github.com/xml94/xml94.github.io/blob/main/PaperSeminar/2023/202307%20ASABE%20Known%20and%20Unknown%20Class%20Recognition%20on%20Plant%20Species%20and%20Diseases.pdf).
